@@ -58,6 +58,8 @@ cd pandas-for-biologists
 
 Here’s how you can load a CSV file containing gene expression data:
 
+## Example 
+
 ```python
 import pandas as pd
 
@@ -97,20 +99,4 @@ plt.show()
 - [Python for Biologists](https://pythonforbiologists.com/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
----
-
-## Contributing
-Contributions are welcome! If you have ideas, suggestions, or code to share, please submit a pull request or open an issue in this repository.
-
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-## Contact
-For questions or feedback, reach out via email at [your-email@example.com].
-
-Happy coding!
 
